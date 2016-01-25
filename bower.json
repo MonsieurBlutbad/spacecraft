@@ -1,0 +1,22 @@
+{
+  "name": "Spacecraft",
+  "authors": [
+    "Kay <kaybader@gmx.de>"
+  ],
+  "description": "A Space Adventure Game",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.4.4"
+  }
+}
